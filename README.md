@@ -1,4 +1,5 @@
-Car Sales Performance Analytics
+##Car Sales Performance Analytics##
+
 This repository contains a Power BI dashboard that provides comprehensive insights into car sales and service performance. The dashboard visualizes critical metrics, such as vehicle sales trends, customer satisfaction, and service center efficiency, allowing for data-driven decision-making within the automotive sector.
 
 Dashboard Overview
