@@ -1,18 +1,29 @@
-##Car Sales Performance Analytics##
+# Power BI Dashboard: Car Sales and Service Performance
 
-This repository contains a Power BI dashboard that provides comprehensive insights into car sales and service performance. The dashboard visualizes critical metrics, such as vehicle sales trends, customer satisfaction, and service center efficiency, allowing for data-driven decision-making within the automotive sector.
+This repository contains a Power BI dashboard that provides insights into car sales and service performance. The dashboard visualizes key metrics related to vehicle sales, customer service, and performance across different regions and service centers.
 
-Dashboard Overview
-Title: Car Sales and Service Performance Dashboard
-Tool: Microsoft Power BI
-File Name: PBI Dashboard.pbix
-Key Metrics Visualized:
-Sales trends by car model, region, and time.
-Customer satisfaction scores.
-Performance analysis of service centers.
-Interactive filters for customized insights.
-Features
-Sales Analysis: View sales data across different regions, car models, and time periods.
-Customer Satisfaction: Analyze customer feedback and satisfaction related to services.
-Service Performance: Monitor key metrics like repair time, costs, and service center performance.
-Interactive Visuals: Use filters to explore data specific to car models, regions, or time periods.
+## Dashboard Overview
+
+- **Title**: Car Sales and Service Performance Dashboard
+- **Tool**: Microsoft Power BI
+- **File Name**: `PBI Dashboard.pbix`
+- **Key Metrics Visualized**:
+  - Total sales by car model and region
+  - Customer satisfaction scores
+  - Service center performance and efficiency
+  - Sales trends over time
+
+## Features
+
+- **Sales Analysis**: A breakdown of car sales data based on model, region, and time.
+- **Customer Satisfaction**: Charts showcasing customer feedback and service satisfaction.
+- **Service Performance**: Analysis of service centers based on performance metrics like repair time, cost, and customer feedback.
+
+## How to Use
+
+1. Download the `PBI Dashboard.pbix` file from this repository.
+2. Open the file in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. Explore the dashboard by interacting with filters and charts.
+4. Customize the data sources to reflect your specific dataset (if needed).
+
+
